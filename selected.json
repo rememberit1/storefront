@@ -1,0 +1,833 @@
+[
+ {
+  "title": "Brothers Leon Roofing Services",
+  "categoryName": "Roofing contractor",
+  "categories": [
+   "Roofing contractor",
+   "General contractor",
+   "Contractor",
+   "Siding contractor"
+  ],
+  "totalScore": 5,
+  "reviewsCount": 25,
+  "phone": "(301) 673-3525",
+  "address": "299 8th St SE, Washington, DC 20003",
+  "street": "299 8th St SE",
+  "city": "Washington",
+  "state": "District of Columbia",
+  "postalCode": "20003",
+  "url": "https://www.google.com/maps/search/?api=1&query=Brothers%20Leon%20Roofing%20Services&query_place_id=ChIJG8t2l4Xs-QERIGRfJ31RuTw",
+  "placeId": "ChIJG8t2l4Xs-QERIGRfJ31RuTw",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "7\u202fAM to 9\u202fPM"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "7\u202fAM to 9\u202fPM"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "7\u202fAM to 9\u202fPM"
+   },
+   {
+    "day": "Thursday",
+    "hours": "7\u202fAM to 9\u202fPM"
+   },
+   {
+    "day": "Friday",
+    "hours": "7\u202fAM to 9\u202fPM"
+   },
+   {
+    "day": "Saturday",
+    "hours": "7\u202fAM to 9\u202fPM"
+   },
+   {
+    "day": "Sunday",
+    "hours": "7\u202fAM to 9\u202fPM"
+   }
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "searchString": "roofing contractor",
+  "claimThisBusiness": true,
+  "isAdvertisement": false,
+  "site_status": "none"
+ },
+ {
+  "title": "MRM Services llc.",
+  "categoryName": "HVAC contractor",
+  "categories": [
+   "HVAC contractor",
+   "Air conditioning repair service",
+   "Service establishment",
+   "Furnace repair service",
+   "Heating contractor"
+  ],
+  "totalScore": 5,
+  "reviewsCount": 28,
+  "phone": "(202) 600-8391",
+  "address": null,
+  "street": null,
+  "city": null,
+  "state": null,
+  "postalCode": null,
+  "website": "http://thumbtack.com/",
+  "url": "https://www.google.com/maps/search/?api=1&query=MRM%20Services%20llc.&query_place_id=ChIJ7fTcBnC_t4kRcEwHXpprfMA",
+  "placeId": "ChIJ7fTcBnC_t4kRcEwHXpprfMA",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Thursday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Friday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Saturday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Sunday",
+    "hours": "Closed"
+   }
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "searchString": "HVAC contractor",
+  "claimThisBusiness": false,
+  "isAdvertisement": false,
+  "site_status": "broken: social/directory page only (thumbtack.com)"
+ },
+ {
+  "title": "Kelbie Home Improvement - Washington, DC Flat Roof Services",
+  "categoryName": "Roofing contractor",
+  "categories": [
+   "Roofing contractor",
+   "General contractor"
+  ],
+  "totalScore": 5,
+  "reviewsCount": 27,
+  "phone": "(202) 331-7713",
+  "address": "700 Pennsylvania Ave. SE Ste 2111, Washington, DC 20003",
+  "street": "700 Pennsylvania Ave. SE Ste 2111",
+  "city": "Washington",
+  "state": "District of Columbia",
+  "postalCode": "20003",
+  "website": "https://kelbieroofing.com/",
+  "url": "https://www.google.com/maps/search/?api=1&query=Kelbie%20Home%20Improvement%20-%20Washington%2C%20DC%20Flat%20Roof%20Services&query_place_id=ChIJAQAAQMe3t4kRWUcSHue4Mzs",
+  "placeId": "ChIJAQAAQMe3t4kRWUcSHue4Mzs",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Thursday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Friday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Saturday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Sunday",
+    "hours": "Open 24 hours"
+   }
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "searchString": "roofing contractor",
+  "claimThisBusiness": false,
+  "isAdvertisement": false,
+  "site_status": "broken: curl error 35",
+  "site_status2": "broken: curl error 35"
+ },
+ {
+  "title": "DJ's Plumbing and Electrical Services",
+  "categoryName": "Plumber",
+  "categories": [
+   "Plumber",
+   "Electrician",
+   "Service establishment",
+   "General contractor"
+  ],
+  "totalScore": 4.8,
+  "reviewsCount": 126,
+  "phone": "(202) 505-4675",
+  "address": null,
+  "street": null,
+  "city": null,
+  "state": null,
+  "postalCode": null,
+  "website": "https://djsplumbingandelectrical.com/",
+  "url": "https://www.google.com/maps/search/?api=1&query=DJ's%20Plumbing%20and%20Electrical%20Services&query_place_id=ChIJUZ7nVmnmxqsRPLk_38cYk4Y",
+  "placeId": "ChIJUZ7nVmnmxqsRPLk_38cYk4Y",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Thursday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Friday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Saturday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Sunday",
+    "hours": "Open 24 hours"
+   }
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "searchString": "plumber",
+  "claimThisBusiness": false,
+  "isAdvertisement": false,
+  "site_status": "broken: curl error 35",
+  "site_status2": "broken: curl error 35"
+ },
+ {
+  "title": "B.DANIEL'S",
+  "categoryName": "Plumber",
+  "categories": [
+   "Plumber",
+   "Service establishment",
+   "Handyman/Handywoman/Handyperson"
+  ],
+  "totalScore": 4.8,
+  "reviewsCount": 25,
+  "phone": "(202) 246-8003",
+  "address": null,
+  "street": null,
+  "city": null,
+  "state": null,
+  "postalCode": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=B.DANIEL'S&query_place_id=ChIJJVYOwC0Wq4cReu7EuKb4cdY",
+  "placeId": "ChIJJVYOwC0Wq4cReu7EuKb4cdY",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "9\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "9\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "9\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Thursday",
+    "hours": "9\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Friday",
+    "hours": "9\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Saturday",
+    "hours": "9\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Sunday",
+    "hours": "9\u202fAM to 5\u202fPM"
+   }
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "searchString": "plumber",
+  "claimThisBusiness": false,
+  "isAdvertisement": false,
+  "site_status": "none"
+ },
+ {
+  "title": "Benny's Exterior LLC",
+  "categoryName": "Roofing contractor",
+  "categories": [
+   "Roofing contractor"
+  ],
+  "totalScore": 4.8,
+  "reviewsCount": 44,
+  "phone": "(240) 354-9872",
+  "phoneUnformatted": "+12403549872",
+  "address": "12301 Palermo Dr, Silver Spring, MD 20904",
+  "street": "12301 Palermo Dr",
+  "city": "Silver Spring",
+  "state": "Maryland",
+  "postalCode": "20904",
+  "countryCode": "US",
+  "website": "http://bennyexteriorllc.com/",
+  "url": "https://www.google.com/maps/search/?api=1&query=Benny's%20Exterior%20LLC&query_place_id=ChIJZVk6v-vEt4kREWwjpuXa4ss",
+  "placeId": "ChIJZVk6v-vEt4kREWwjpuXa4ss",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Thursday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Friday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Saturday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Sunday",
+    "hours": "9\u202fAM to 12\u202fAM"
+   }
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "searchString": "roofing contractor in Silver Spring, MD",
+  "site_status": "broken: curl error 35"
+ },
+ {
+  "title": "Matrix General Contractors LLC",
+  "categoryName": "Roofing contractor",
+  "categories": [
+   "Roofing contractor"
+  ],
+  "totalScore": 4.7,
+  "reviewsCount": 39,
+  "phone": "",
+  "phoneUnformatted": "",
+  "address": "3002 Kingswell Dr, Silver Spring, MD 20902",
+  "street": "3002 Kingswell Dr",
+  "city": "Silver Spring",
+  "state": "Maryland",
+  "postalCode": "20902",
+  "countryCode": "US",
+  "website": "https://matrixgeneral.com/",
+  "url": "https://www.google.com/maps/search/?api=1&query=Matrix%20General%20Contractors%20LLC&query_place_id=ChIJNazUeITPt4kReRFbR-W2uqY",
+  "placeId": "ChIJNazUeITPt4kReRFbR-W2uqY",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Thursday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Friday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Saturday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Sunday",
+    "hours": "Closed"
+   }
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "searchString": "roofing contractor in Silver Spring, MD",
+  "site_status": "broken: curl error 35"
+ },
+ {
+  "title": "PGS Plumbing Solutions LLC",
+  "categoryName": "Plumber",
+  "categories": [
+   "Plumber"
+  ],
+  "totalScore": 4.9,
+  "reviewsCount": 44,
+  "phone": "(202) 492-6806",
+  "phoneUnformatted": "+12024926806",
+  "address": "7201 E Forest Rd, Hyattsville, MD 20785",
+  "street": "7201 E Forest Rd",
+  "city": "Hyattsville",
+  "state": "Maryland",
+  "postalCode": "20785",
+  "countryCode": "US",
+  "website": "https://youtube.com/@pgsplumbing-u8l?si=LCm6bH2W95mpa2W1",
+  "url": "https://www.google.com/maps/search/?api=1&query=PGS%20Plumbing%20Solutions%20LLC&query_place_id=ChIJ2Y1kkKDBt4kRfS0mqADdSwY",
+  "placeId": "ChIJ2Y1kkKDBt4kRfS0mqADdSwY",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "5\u202fAM to 11\u202fPM"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "5\u202fAM to 11\u202fPM"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "5\u202fAM to 11\u202fPM"
+   },
+   {
+    "day": "Thursday",
+    "hours": "5\u202fAM to 11\u202fPM"
+   },
+   {
+    "day": "Friday",
+    "hours": "5\u202fAM to 11\u202fPM"
+   },
+   {
+    "day": "Saturday",
+    "hours": "5\u202fAM to 11\u202fPM"
+   },
+   {
+    "day": "Sunday",
+    "hours": "5\u202fAM to 11\u202fPM"
+   }
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "searchString": "plumber in Hyattsville, MD",
+  "site_status": "broken: social/directory page only (youtube.com)"
+ },
+ {
+  "title": "Cycle Heating and Cooling, LLC",
+  "categoryName": "HVAC contractor",
+  "categories": [
+   "HVAC contractor"
+  ],
+  "totalScore": 4.9,
+  "reviewsCount": 79,
+  "phone": "(240) 510-4720",
+  "phoneUnformatted": "+12405104720",
+  "address": "8304 Garland Ave, Silver Spring, MD 20912",
+  "street": "8304 Garland Ave",
+  "city": "Silver Spring",
+  "state": "Maryland",
+  "postalCode": "20912",
+  "countryCode": "US",
+  "url": "https://www.google.com/maps/search/?api=1&query=Cycle%20Heating%20and%20Cooling%2C%20LLC&query_place_id=ChIJE28ZObvHt4kR5L1HahFDIw4",
+  "placeId": "ChIJE28ZObvHt4kR5L1HahFDIw4",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Thursday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Friday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Saturday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Sunday",
+    "hours": "Open 24 hours"
+   }
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "searchString": "HVAC contractor in Silver Spring, MD",
+  "site_status": "none"
+ },
+ {
+  "title": "AG Heating Cooling Duct Cleaning",
+  "categoryName": "HVAC contractor",
+  "categories": [
+   "HVAC contractor",
+   "Air conditioning contractor",
+   "Air conditioning repair service",
+   "Air duct cleaning service",
+   "Heating contractor"
+  ],
+  "totalScore": 4.9,
+  "reviewsCount": 27,
+  "phone": "(240) 334-8613",
+  "phoneUnformatted": "+12403348613",
+  "address": "1600 University Blvd W, Silver Spring, MD 20902",
+  "street": "1600 University Blvd W",
+  "city": "Silver Spring",
+  "state": "Maryland",
+  "postalCode": "20902",
+  "countryCode": "US",
+  "url": "https://www.google.com/maps/search/?api=1&query=AG%20Heating%20Cooling%20Duct%20Cleaning&query_place_id=ChIJvZtTHWrPt4kRdr6H_3WuEDs",
+  "placeId": "ChIJvZtTHWrPt4kRdr6H_3WuEDs",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   },
+   {
+    "day": "Thursday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   },
+   {
+    "day": "Friday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   },
+   {
+    "day": "Saturday",
+    "hours": "9\u202fAM to 4\u202fPM"
+   },
+   {
+    "day": "Sunday",
+    "hours": "Closed"
+   }
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "searchString": "HVAC contractor in Silver Spring, MD",
+  "site_status": "none"
+ },
+ {
+  "title": "1 DAY CONTRACTORS LLC",
+  "categoryName": "Roofing contractor",
+  "categories": [
+   "Roofing contractor",
+   "Gutter service",
+   "Siding contractor"
+  ],
+  "totalScore": 4.7,
+  "reviewsCount": 31,
+  "phone": "(240) 930-9173",
+  "phoneUnformatted": "+12409309173",
+  "address": "6417 Adelphi Rd, University Park, MD 20782",
+  "street": "6417 Adelphi Rd",
+  "city": "University Park",
+  "state": "Maryland",
+  "postalCode": "20782",
+  "countryCode": "US",
+  "url": "https://www.google.com/maps/search/?api=1&query=1%20DAY%20CONTRACTORS%20LLC&query_place_id=ChIJd_8rcyTBt4kRpXPsNnlS4uk",
+  "placeId": "ChIJd_8rcyTBt4kRpXPsNnlS4uk",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Thursday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Friday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Saturday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Sunday",
+    "hours": "Open 24 hours"
+   }
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "searchString": "roofing contractor in Hyattsville, MD",
+  "site_status": "none"
+ },
+ {
+  "title": "Rios HVAC Services, LLC.",
+  "categoryName": "HVAC contractor",
+  "categories": [
+   "HVAC contractor",
+   "Air conditioning repair service",
+   "Heating contractor",
+   "Air conditioning contractor"
+  ],
+  "totalScore": 5,
+  "reviewsCount": 142,
+  "phone": "(202) 257-7658",
+  "phoneUnformatted": "+12022577658",
+  "address": "Buchanan St, Mt Rainier, MD 20712",
+  "street": "Buchanan St",
+  "city": "Mt Rainier",
+  "state": "Maryland",
+  "postalCode": "20712",
+  "countryCode": "US",
+  "website": "https://facebook.com/HVACRIOSLLC/",
+  "url": "https://www.google.com/maps/search/?api=1&query=Rios%20HVAC%20Services%2C%20LLC.&query_place_id=ChIJl-JM4AfHt4kRPzrD1ekjcBw",
+  "placeId": "ChIJl-JM4AfHt4kRPzrD1ekjcBw",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   },
+   {
+    "day": "Thursday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   },
+   {
+    "day": "Friday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   },
+   {
+    "day": "Saturday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   },
+   {
+    "day": "Sunday",
+    "hours": "7\u202fAM to 5\u202fPM"
+   }
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "searchString": "HVAC contractor in Hyattsville, MD",
+  "site_status": "broken: social/directory page only (facebook.com)"
+ },
+ {
+  "title": "Ace Roofing Corporation",
+  "categoryName": "Roofing contractor",
+  "categories": [
+   "Roofing contractor"
+  ],
+  "totalScore": 4.7,
+  "reviewsCount": 31,
+  "phone": "(301) 637-3139",
+  "phoneUnformatted": "+13016373139",
+  "address": "11140 Rockville Pike #400, Rockville, MD 20852",
+  "street": "11140 Rockville Pike #400",
+  "city": "Rockville",
+  "state": "Maryland",
+  "postalCode": "20852",
+  "countryCode": "US",
+  "url": "https://www.google.com/maps/search/?api=1&query=Ace%20Roofing%20Corporation&query_place_id=ChIJA7dVTiLMt4kRrIhbgHESwy8",
+  "placeId": "ChIJA7dVTiLMt4kRrIhbgHESwy8",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Thursday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Friday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Saturday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Sunday",
+    "hours": "Open 24 hours"
+   }
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "searchString": "roofing contractor in Bethesda, MD",
+  "site_status": "none"
+ },
+ {
+  "title": "Affordable Plumbing & Gas LLC",
+  "categoryName": "Plumber",
+  "categories": [
+   "Plumber",
+   "Gasfitter",
+   "Repair service"
+  ],
+  "totalScore": 4.9,
+  "reviewsCount": 135,
+  "phone": "(703) 839-3910",
+  "phoneUnformatted": "+17038393910",
+  "address": "3804 Wilson Blvd #1030, Arlington, VA 22203",
+  "street": "3804 Wilson Blvd #1030",
+  "city": "Arlington",
+  "state": "Virginia",
+  "postalCode": "22203",
+  "countryCode": "US",
+  "url": "https://www.google.com/maps/search/?api=1&query=Affordable%20Plumbing%20%26%20Gas%20LLC&query_place_id=ChIJ6_SJFk-zt4kRiwHiP-r9xP4",
+  "placeId": "ChIJ6_SJFk-zt4kRiwHiP-r9xP4",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "8\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "8\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "8\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Thursday",
+    "hours": "8\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Friday",
+    "hours": "8\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Saturday",
+    "hours": "Closed"
+   },
+   {
+    "day": "Sunday",
+    "hours": "Closed"
+   }
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "searchString": "plumber in Arlington, VA",
+  "site_status": "none"
+ },
+ {
+  "title": "New Sunrise Roofing Inc",
+  "categoryName": "Roofing contractor",
+  "categories": [
+   "Roofing contractor",
+   "Gutter cleaning service",
+   "Siding contractor",
+   "Skylight contractor"
+  ],
+  "totalScore": 5,
+  "reviewsCount": 67,
+  "phone": "(703) 495-8877",
+  "phoneUnformatted": "+17034958877",
+  "address": "6801 Backlick Rd Ste C, Springfield, VA 22150",
+  "street": "6801 Backlick Rd Ste C",
+  "city": "Springfield",
+  "state": "Virginia",
+  "postalCode": "22150",
+  "countryCode": "US",
+  "url": "https://www.google.com/maps/search/?api=1&query=New%20Sunrise%20Roofing%20Inc&query_place_id=ChIJYzNv8nRTtokR9qHG-X6ivCc",
+  "placeId": "ChIJYzNv8nRTtokR9qHG-X6ivCc",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "9\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "9\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "9\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Thursday",
+    "hours": "9\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Friday",
+    "hours": "9\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Saturday",
+    "hours": "9\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Sunday",
+    "hours": "Closed"
+   }
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "searchString": "roofing contractor in Alexandria, VA",
+  "site_status": "none"
+ }
+]

@@ -1,0 +1,932 @@
+[
+ {
+  "title": "CA Plumbing & Drain, LLC",
+  "placeId": "ChIJ7yNPn7ZVtokR2HsqGX5Q04M",
+  "categoryName": "Plumber",
+  "totalScore": 5,
+  "reviewsCount": 153,
+  "phone": "(703) 420-0087",
+  "phoneUnformatted": "+17034200087",
+  "address": "1639 Dorothy Ln, Woodbridge, VA 22191",
+  "city": "Woodbridge",
+  "state": "Virginia",
+  "url": "https://www.google.com/maps/search/?api=1&query=CA%20Plumbing%20%26%20Drain%2C%20LLC&query_place_id=ChIJ7yNPn7ZVtokR2HsqGX5Q04M",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "7:30\u202fAM to 6\u202fPM"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "7:30\u202fAM to 6\u202fPM"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "7:30\u202fAM to 6\u202fPM"
+   },
+   {
+    "day": "Thursday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   },
+   {
+    "day": "Friday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Saturday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Sunday",
+    "hours": "9\u202fAM to 3\u202fPM"
+   }
+  ],
+  "bucket": "Plumbing",
+  "stateAbbr": "VA",
+  "reviews": [
+   {
+    "name": "Marshall G.",
+    "stars": 5,
+    "text": "Chris was awesome! Came on time, great price, knowledgeable and helped us understand the issues and our problems along with our solutions to fix it. Super would recommend CA Plumbing for anything you need!"
+   },
+   {
+    "name": "Jos\u00e9 R.",
+    "stars": 5,
+    "text": "Thank you, Chris! Very professional, efficient and fast. Chris showed me the before and after process, taking his time to make sure I knew the equipment well. Also, very friendly!! Again, thank you, Chris!"
+   },
+   {
+    "name": "Brady C.",
+    "stars": 5,
+    "text": "Chris came highly recommended by a couple of our friends and he responded to our request arriving in less than 24 hours. He was extremely kind, professional, and did great work for a good price. We will definitely be going back to him with future needs."
+   },
+   {
+    "name": "Andy P.",
+    "stars": 5,
+    "text": "Chris was great super informative from start to finish on the job. Would highly recommend for doing quality work and has answers to all your questions. Very honest and genuine."
+   }
+  ],
+  "email": "info@caplumbingdrain.com",
+  "email_source": "https://www.caplumbingdrain.com/contact-us/ (search-index copy of their own site) ; https://www.sewerlinerepairlist.com/contractors/va/ca-plumbing-drain-llc",
+  "email_confidence": "medium-high: on business's own site (same phone 703-420-0087) + directory with same address; site now errors but domain MX (Outlook) is active",
+  "site_status": "none on Google listing; their own domain caplumbingdrain.com returns a WordPress error (HTTP 500)",
+  "listed_website": "",
+  "reason": "but I couldn't find a working website for you",
+  "project": "storefront-ca-plumbing-drain",
+  "score": 765
+ },
+ {
+  "title": "All Things Plumbing & Gas LLC",
+  "placeId": "ChIJt-wOkJxLtokRoup8WG6zlt8",
+  "categoryName": "Plumber",
+  "totalScore": 5,
+  "reviewsCount": 131,
+  "phone": "(703) 581-4812",
+  "phoneUnformatted": "+17035814812",
+  "address": "7524 Lisle Ave, Falls Church, VA 22043",
+  "city": "Falls Church",
+  "state": "Virginia",
+  "url": "https://www.google.com/maps/search/?api=1&query=All%20Things%20Plumbing%20%26%20Gas%20LLC&query_place_id=ChIJt-wOkJxLtokRoup8WG6zlt8",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "8\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "8\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "8\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Thursday",
+    "hours": "8\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Friday",
+    "hours": "8\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Saturday",
+    "hours": "7\u202fAM to 3\u202fPM"
+   },
+   {
+    "day": "Sunday",
+    "hours": "Closed"
+   }
+  ],
+  "bucket": "Plumbing",
+  "stateAbbr": "VA",
+  "reviews": [
+   {
+    "name": "Emily R.",
+    "stars": 5,
+    "text": "We will use Shawn / All Things Plumbing & Gas for any of our future plumbing / gas needs."
+   },
+   {
+    "name": "Fatima K.",
+    "stars": 5,
+    "text": "Shawn was honest, thorough, and quick! He helped us fix a pipe in our master bath and did a great job!"
+   },
+   {
+    "name": "Hyun C.",
+    "stars": 5,
+    "text": "Shawn responded promptly and arrived the same day to repair our leaking water line, preventing any further damage. He gave us an immediate quote, unlike other companies, making our decision to hire him simple and we're thrilled we did."
+   },
+   {
+    "name": "Monika M.",
+    "stars": 5,
+    "text": "Shawn came the same day for a water leak we couldn\u2019t trace. He identified a corroded copper pipe and replaced it quickly at a very fair price! He was working with an apprentice, and his interactions with that person were kind and clear too."
+   }
+  ],
+  "email": "Shawn@AllThingsPlumbingAndGas.com",
+  "email_source": "https://nextdoor.com/pages/all-things-plumbing-gas-falls-church-va-1/ ; https://exa.ai/library/place/mcj89rksv5m",
+  "email_confidence": "high: business's own Nextdoor page (same phone 703-581-4812, address 7524 Lisle Ave, owner Shawn); domain MX active. Alt: shawnj703@gmail.com on owner's Nextdoor profile",
+  "site_status": "none on Google listing; their own domain allthingsplumbingandgas.com shows a WordPress error page",
+  "listed_website": "",
+  "reason": "but I couldn't find a working website for you",
+  "project": "storefront-all-things-plumbing-gas",
+  "score": 655
+ },
+ {
+  "title": "UNIVERSAL HEAT AND AIR LLC",
+  "placeId": "ChIJb04_u91ctokROU1URuRy5rk",
+  "categoryName": "HVAC contractor",
+  "totalScore": 5,
+  "reviewsCount": 81,
+  "phone": "(703) 580-8988",
+  "phoneUnformatted": "+17035808988",
+  "address": "5550 Spriggs Meadow Dr, Woodbridge, VA 22193",
+  "city": "Woodbridge",
+  "state": "Virginia",
+  "url": "https://www.google.com/maps/search/?api=1&query=UNIVERSAL%20HEAT%20AND%20AIR%20LLC&query_place_id=ChIJb04_u91ctokROU1URuRy5rk",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Thursday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Friday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Saturday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Sunday",
+    "hours": "Open 24 hours"
+   }
+  ],
+  "bucket": "HVAC",
+  "stateAbbr": "VA",
+  "reviews": [
+   {
+    "name": "Liz",
+    "stars": 5,
+    "text": "Their technician, Sam, is very knowledgeable and their service is timely. Our call was for maintenance but still they came the very next day and serviced our HVAC units."
+   },
+   {
+    "name": "Shahbaz K.",
+    "stars": 5,
+    "text": "Their team was professional, punctual, and very knowledgeable. They quickly diagnosed the issue and fixed our HVAC system efficiently. The pricing was fair, and the service quality was excellent."
+   },
+   {
+    "name": "Lydia P.",
+    "stars": 5,
+    "text": "I really liked these guys! They did a Sunday emergency service for me. Couldn't fix it bc the part they needed wasn't in.... But he came back the next day to finish the job. I'm not sure if it was reasonably priced because it was an urgent issue."
+   },
+   {
+    "name": "Marcus R.",
+    "stars": 5,
+    "text": "I called on a Saturday night because my air was not working. To my surprise, Sam was able to come within an hour of me calling. He was friendly and polite and quickly identified, explained, and fixed the issue."
+   }
+  ],
+  "email": "support@varepair.com",
+  "email_source": "https://www.varepair.com/ and https://www.varepair.com/contact-us/ (search-index copies of their own site)",
+  "email_confidence": "medium-high: on business's own site (VA Repair = Universal Heat & Air, same phone 703-580-8988); site currently down but domain MX (Google) active",
+  "site_status": "broken: varepair.com returns HTTP 500 (PHP error)",
+  "listed_website": "https://www.varepair.com/",
+  "reason": "but the website on your Google listing isn't loading",
+  "project": "storefront-universal-heat-and-air",
+  "score": 405
+ },
+ {
+  "title": "AIr Control LLC",
+  "placeId": "ChIJ2UZdRMpKtokRJFIDlNSJQYc",
+  "categoryName": "HVAC contractor",
+  "totalScore": 4.8,
+  "reviewsCount": 45,
+  "phone": "(703) 969-6320",
+  "phoneUnformatted": "+17039696320",
+  "address": null,
+  "city": null,
+  "state": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=AIr%20Control%20LLC&query_place_id=ChIJ2UZdRMpKtokRJFIDlNSJQYc",
+  "openingHours": [],
+  "bucket": "HVAC",
+  "stateAbbr": null,
+  "reviews": [
+   {
+    "name": "Andy M.",
+    "stars": 5,
+    "text": "They were great and kind, with our infant in this heat they made sure to come out and work quickly. Fred was really great at explaining how he troubleshoots the HVAC system and what the problem was. He fixed the issue within a few minutes."
+   },
+   {
+    "name": "Maggie M.",
+    "stars": 5,
+    "text": "Fred is terrific! My AC stopped working and he quickly worked to diagnosis the problem, order the new parts, and install them in a hot, hot apartment!! I can't recommend Air Control LLC enough!"
+   },
+   {
+    "name": "Stefo L.",
+    "stars": 5,
+    "text": "Air Control LLC installed my new HVAC system in 2015 at a reasonable price, and it has been running perfectly ever since. Great service provided and Fred is an honest professional."
+   },
+   {
+    "name": "Catrina G.",
+    "stars": 5,
+    "text": "Fred has serviced our home for 15 years and still doesn't try to sell a new unit. The day he does we will believe him. The man fixed my ac in the middle of a storm on the hottest day of the year for cheap and with a smile. He's never failed at repairing our unit!"
+   }
+  ],
+  "email": "fkent.aircontrol@gmail.com",
+  "email_source": "https://nextdoor.com/pages/air-control-llc-arlington-va/",
+  "email_confidence": "high: business's own Nextdoor page (owner Fred, same phone 703-969-6320, lic. 2705124129); also on search-index copy of aircontrol-llc.com",
+  "site_status": "broken: aircontrol-nova.com shows 'Account Suspended'; newer aircontrol-llc.com shows 'Site not found' (404)",
+  "listed_website": "http://www.aircontrol-nova.com/",
+  "reason": "but the website on your Google listing has been suspended",
+  "project": "storefront-air-control",
+  "score": 216.0
+ },
+ {
+  "title": "All Total Service Plumbing",
+  "placeId": "ChIJ-cl33mX5tokRAdUXzh3FXKA",
+  "categoryName": "Plumber",
+  "totalScore": 4.9,
+  "reviewsCount": 38,
+  "phone": "(703) 656-0559",
+  "phoneUnformatted": "+17036560559",
+  "address": "16235 Dumfries Rd, Montclair, VA 22025",
+  "city": "Montclair",
+  "state": "Virginia",
+  "url": "https://www.google.com/maps/search/?api=1&query=All%20Total%20Service%20Plumbing&query_place_id=ChIJ-cl33mX5tokRAdUXzh3FXKA",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Thursday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Friday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Saturday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Sunday",
+    "hours": "8\u202fAM to 12\u202fPM"
+   }
+  ],
+  "bucket": "Plumbing",
+  "stateAbbr": "VA",
+  "reviews": [
+   {
+    "name": "Sarah R.",
+    "stars": 5,
+    "text": "Mr. Scot is a very professional dependable plumber. What I called for he was able to promptly repair it within minutes. His service is great! I definitely would recommend Mr. Scot for your plumbing needs."
+   },
+   {
+    "name": "Madonna L.",
+    "stars": 5,
+    "text": "I've had so many plumbers out to my home it's ridiculous! Finally someone who knows what they are doing and does it well. Exceptional quality with a reasonable price. Not shy to take on big jobs and knock the problems out in a timely manner."
+   },
+   {
+    "name": "Peter G.",
+    "stars": 5,
+    "text": "Scott and his team came to the rescue! After having 3 other technicians come out and quote ridiculous amounts for the repair instillation, I called All total services and he gave me a very fair upfront price. He was able to come with a new water heater within 30 min and install it."
+   },
+   {
+    "name": "Eleanor B.",
+    "stars": 5,
+    "text": "Scott knew exactly what the problem with our leaking bathtub was the moment he saw it. I had received quotes from two companies and his quote was a fraction of the others."
+   }
+  ],
+  "email": "alltotalplumbingservice@gmail.com",
+  "email_source": "https://nextdoor.com/pages/a-total-service-plumbing-fort-belvoir-va/",
+  "email_confidence": "medium-high: business's Nextdoor page (owner Scot Morgal, same phone 703-656-0559); DexKnows lists alltotalplumbing@aol.com (not used)",
+  "site_status": "none (no website on Google listing)",
+  "listed_website": "",
+  "reason": "but I couldn't find a website for you",
+  "project": "storefront-all-total-service-plumbing",
+  "score": 186.2
+ },
+ {
+  "title": "C M KING LLC",
+  "placeId": "ChIJi15BaYVVtokRSPNkugTMnpE",
+  "categoryName": "HVAC contractor",
+  "totalScore": 5,
+  "reviewsCount": 29,
+  "phone": "(703) 296-7891",
+  "phoneUnformatted": "+17032967891",
+  "address": "14726 Featherstone Rd, Woodbridge, VA 22191",
+  "city": "Woodbridge",
+  "state": "Virginia",
+  "url": "https://www.google.com/maps/search/?api=1&query=C%20M%20KING%20LLC&query_place_id=ChIJi15BaYVVtokRSPNkugTMnpE",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Thursday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Friday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Saturday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Sunday",
+    "hours": "Open 24 hours"
+   }
+  ],
+  "bucket": "HVAC",
+  "stateAbbr": "VA",
+  "reviews": [
+   {
+    "name": "Alicia K.",
+    "stars": 5,
+    "text": "Chris did an excellent job installing our split system. He was very knowledgeable and professional throughout the process. Prices were fair and he was able to answer any questions we had. Would definitely recommend him. All work was done on time. He was very responsive by phone."
+   },
+   {
+    "name": "Nathan J.",
+    "stars": 5,
+    "text": "I noticed my heat was out when I woke up this morning, I had heard wonderful things about Chris so I immediately gave him a call. He made it to my house on an emergency visit and diagnosed the issue very efficiently! He is very knowledgeable and professional, I\u2019d hire him again in a heartbeat"
+   },
+   {
+    "name": "Virginia N.",
+    "stars": 5,
+    "text": "Chris provided professional and prompt service fixing our AC unit within an hour of calling."
+   },
+   {
+    "name": "Kevin L.",
+    "stars": 5,
+    "text": "Amazing service! I had ARS quote me $6000 for repairs to my HVAC system. I had Chris come look at it and he had it fixed and running within 30 minutes and only fixed what needed to be fixed. Cost me $160 to get my furnace up and running again."
+   }
+  ],
+  "email": "cmkingllc@comcast.net",
+  "email_source": "https://exa.ai/library/place/mj4nvlyd10d",
+  "email_confidence": "medium: one place aggregator with matching phone 703-296-7891 and address; their old domain cmkingllc.com no longer exists",
+  "site_status": "none (no website on Google listing; old domain cmkingllc.com expired/NXDOMAIN)",
+  "listed_website": "",
+  "reason": "but I couldn't find a website for you",
+  "project": "storefront-c-m-king",
+  "score": 145
+ },
+ {
+  "title": "42 Degrees Heating and Cooling",
+  "placeId": "ChIJeTc0LucTI4IRJ5UUOx8M93U",
+  "categoryName": "Air conditioning contractor",
+  "totalScore": 5,
+  "reviewsCount": 26,
+  "phone": "(703) 398-4148",
+  "phoneUnformatted": "+17033984148",
+  "address": "14334 Ferndale Rd, Woodbridge, VA 22193",
+  "city": "Woodbridge",
+  "state": "Virginia",
+  "url": "https://www.google.com/maps/search/?api=1&query=42%20Degrees%20Heating%20and%20Cooling&query_place_id=ChIJeTc0LucTI4IRJ5UUOx8M93U",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Thursday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Friday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Saturday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Sunday",
+    "hours": "Open 24 hours"
+   }
+  ],
+  "bucket": "HVAC",
+  "stateAbbr": "VA",
+  "reviews": [
+   {
+    "name": "Angela S.",
+    "stars": 5,
+    "text": "really helpful in providing me information to understand what was needed and what wasn\u2019t needed, super professional and everything that was needed to be done, was finished in a timely manner! would highly reccomend"
+   },
+   {
+    "name": "Jessica",
+    "stars": 5,
+    "text": "If I could give Carlos a million stars I would. He is kind, honest, professional, prompt and an expert in his field. Literally everything you could ask for. Look no further, you won't regret it! Thank you Carlos!"
+   },
+   {
+    "name": "S G.",
+    "stars": 5,
+    "text": "Carlos was very honest and professional. Answered all my questions. He knows what he is doing and does a great job explaining step-by-step process with my HVAC system and got it working right away. Highly recommend him, and he also has reasonable prices."
+   },
+   {
+    "name": "Fawad L.",
+    "stars": 5,
+    "text": "Great service; professional; on time; and at fair price. He came on Thanksgiving day, and fixed the problem. I would definitely recommend it to my friends."
+   }
+  ],
+  "email": "info@42degreeshvac.com",
+  "email_source": "https://www.freelistingusa.com/listings/42-degrees-heating-and-cooling ; https://www.fyple.com/company/42-degrees-heating-and-cooling-o27z46p/",
+  "email_confidence": "medium-high: self-submitted listing (business-written description, logo, same phone/address); domain MX (Google) active. whatsyourhours lists degreesheatingandcooling@outlook.com (not used)",
+  "site_status": "broken: 42degreeshvac.com shows 'Error. Page cannot be displayed' (confirmed via Apify fetch and box)",
+  "listed_website": "http://www.42degreeshvac.com/",
+  "reason": "but the website on your Google listing isn't loading",
+  "project": "storefront-42-degrees-heating-and-cooling",
+  "score": 130
+ },
+ {
+  "title": "ROOTER MASTER SERVICES",
+  "placeId": "ChIJEYvH_S_Bt4kRWQ1Xukclo4Y",
+  "categoryName": "Plumber",
+  "totalScore": 4.9,
+  "reviewsCount": 79,
+  "phone": "(240) 478-8134",
+  "phoneUnformatted": "+12404788134",
+  "address": "7931 Dellwood Ave, Glenarden, MD 20706",
+  "city": "Glenarden",
+  "state": "Maryland",
+  "url": "https://www.google.com/maps/search/?api=1&query=ROOTER%20MASTER%20SERVICES&query_place_id=ChIJEYvH_S_Bt4kRWQ1Xukclo4Y",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Thursday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Friday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Saturday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Sunday",
+    "hours": "Closed"
+   }
+  ],
+  "bucket": "Plumbing",
+  "stateAbbr": "MD",
+  "reviews": [
+   {
+    "name": "Thomas N.",
+    "stars": 5,
+    "text": "Sam and Mario came quickly for an emergency and were professional speedy in fixing it. Highly recommend!"
+   },
+   {
+    "name": "Kenneth",
+    "stars": 5,
+    "text": "I had a water bubble appear in my ceiling. Called Rooter Masters and they had guys out to inspect issue, drain the bubble, and do a make shift patch on the ceiling within one hour. Both technicians were friendly and professional. I would use their services again."
+   },
+   {
+    "name": "Carl T.",
+    "stars": 5,
+    "text": "I had a draining problem in my kitchen sink. Called Rooter Master the next morning. Sam showed up was nice and very respectful. Gave me a estimate and started the work. Sam got my draining issue fixed and cleaned up after the work was done. I highly recommend this company for ur plumbing needs."
+   }
+  ],
+  "reviews_source": "Google reviews as mirrored on https://reviews.birdeye.com/rooter-master-services-167479795820333 (Apify credit ran out before the Google scrape)",
+  "email": null,
+  "email_source": "not found (checked Birdeye, gigopro, localitybiz, centralindex; none list an email)",
+  "email_confidence": "n/a",
+  "site_status": "none (no website on Google listing)",
+  "listed_website": "",
+  "reason": "but I couldn't find a website for you",
+  "project": "storefront-rooter-master-services",
+  "score": 387.1
+ },
+ {
+  "title": "HVAC EXPERTS",
+  "placeId": "ChIJq-sRrBhPtokRX8_2UcFKy58",
+  "categoryName": "HVAC contractor",
+  "totalScore": 4.9,
+  "reviewsCount": 74,
+  "phone": "(703) 945-4822",
+  "phoneUnformatted": "+17039454822",
+  "address": "11350 Random Hills Rd Ste 800, Fairfax, VA 22030",
+  "city": "Fairfax",
+  "state": "Virginia",
+  "url": "https://www.google.com/maps/search/?api=1&query=HVAC%20EXPERTS&query_place_id=ChIJq-sRrBhPtokRX8_2UcFKy58",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "8\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "8\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "8\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Thursday",
+    "hours": "8\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Friday",
+    "hours": "8\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Saturday",
+    "hours": "Closed"
+   },
+   {
+    "day": "Sunday",
+    "hours": "Closed"
+   }
+  ],
+  "bucket": "HVAC",
+  "stateAbbr": "VA",
+  "reviews": [
+   {
+    "name": "Jaime C.",
+    "stars": 5,
+    "text": "I have known David for 13 years now and I have ways been happy with his service. He is experienced and professional. And prices are very good compared to big companies. He has replaced my AC, furnace, water heater etc. I would recommend"
+   },
+   {
+    "name": "Jiawen Y.",
+    "stars": 5,
+    "text": "David is great. He responded to a call quickly even on a holiday weekend. He explained everything clearly and thoroughly. He is friendly, professional, and knowledgeable. I strongly recommend him."
+   },
+   {
+    "name": "Chase B.",
+    "stars": 5,
+    "text": "David is not only an outstanding technician but also a wonderful person and true professional. He reliably pinpoints the problem and offers a sensible, budget-friendly fix. You\u2019re in excellent hands with David\u2014he\u2019s a tremendous asset for any homeowner."
+   },
+   {
+    "name": "Jaewon R.",
+    "stars": 5,
+    "text": "Always outstanding - Over the years, David and his team have replaced two air conditioning/heating units and finally the hot water heater in my slowly aging townhouse, and he always provided incredibly helpful, fast, efficient, and thoughtful service."
+   }
+  ],
+  "email": null,
+  "email_source": "not found (directories show phone only; did not use LeadIQ's guessed name@domain pattern)",
+  "email_confidence": "n/a",
+  "site_status": "broken: callhvacexperts.com is a blank 'coming soon' (SeedProd) page",
+  "listed_website": "http://www.callhvacexperts.com/",
+  "reason": "but the website on your Google listing is just a blank placeholder page",
+  "project": "storefront-hvac-experts",
+  "score": 362.6
+ },
+ {
+  "title": "Pipefathers Plumbing",
+  "placeId": "ChIJV0JElKE8pwcRQhSx_wiGdOI",
+  "categoryName": "Plumber",
+  "totalScore": 5,
+  "reviewsCount": 59,
+  "phone": "(703) 203-3400",
+  "phoneUnformatted": "+17032033400",
+  "address": null,
+  "city": null,
+  "state": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Pipefathers%20Plumbing&query_place_id=ChIJV0JElKE8pwcRQhSx_wiGdOI",
+  "openingHours": [],
+  "bucket": "Plumbing",
+  "stateAbbr": null,
+  "reviews": [
+   {
+    "name": "Tripp O.",
+    "stars": 5,
+    "text": "Chase was awesome to work with while fixing a complex leak(s) that we had in our basement. Pricing was straight forward, quality of work was very professional, and he left the space very clean. Highly Recommend!"
+   },
+   {
+    "name": "Walter",
+    "stars": 5,
+    "text": "Chase did an excellent job with our plumbing needs-we are 100% satisfied. He was extremely responsive, communicated effectively and kept us up to date. His work was stellar. He took extra time to explain what was going on, and even took a look at some other plumbing related aspects free of charge."
+   },
+   {
+    "name": "Kakar",
+    "stars": 5,
+    "text": "I hired Pipefathers Plumbing to replace our kitchen faucet, swap out a bathroom toilets, and flush our water heater. Chase, the owner and operator, was punctual, highly knowledgeable, and extremely easy to work with. He completed the work efficiently, and his pricing was affordable."
+   },
+   {
+    "name": "Aaron C.",
+    "stars": 5,
+    "text": "These guys are much better than the other big name plumbing companies!! They pay attention, they care, AND their prices are much more reasonable than the FH Furr and Michael & Sons type of companies."
+   }
+  ],
+  "email": null,
+  "email_source": "not found usable (info@pipefathersplumbing.com is on search-index copy of their site, but the domain has no MX record, so it would bounce)",
+  "email_confidence": "n/a",
+  "site_status": "broken: pipefathersplumbing.com shows 'Error. Page cannot be displayed' (confirmed via Apify fetch and box)",
+  "listed_website": "http://pipefathersplumbing.com/",
+  "reason": "but the website on your Google listing isn't loading",
+  "project": "storefront-pipefathers-plumbing",
+  "score": 295
+ },
+ {
+  "title": "All American HVAC Sovereign Service",
+  "placeId": "ChIJ8Z_vHHKa5SMREDx3Exz-dA8",
+  "categoryName": "HVAC contractor",
+  "totalScore": 5,
+  "reviewsCount": 42,
+  "phone": "(410) 725-5728",
+  "phoneUnformatted": "+14107255728",
+  "address": null,
+  "city": null,
+  "state": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=All%20American%20HVAC%20Sovereign%20Service&query_place_id=ChIJ8Z_vHHKa5SMREDx3Exz-dA8",
+  "openingHours": [],
+  "bucket": "HVAC",
+  "stateAbbr": null,
+  "reviews": [
+   {
+    "name": "Ray W.",
+    "stars": 5,
+    "text": "Reliable, honest service. These guys are familiar with high efficiency gas boilers and hydronics. Their quote was 40% lower than Len the Plumber for installation, even though they used a more expensive and a better brand of boiler."
+   },
+   {
+    "name": "Stephen O.",
+    "stars": 5,
+    "text": "Cori throughout has made this process easy. She communicates well and there have been no surprises. Air ducts are clean and Sovereign/All American will be our new hvac company for ongoing maintenance. Mike is helpful and I know our system is in good hands."
+   },
+   {
+    "name": "Jeff B.",
+    "stars": 5,
+    "text": "They were on site already for another job.And took the time to look at my unit.During an extremely busy time for them. They were able to get my air conditioning running in a very short time. And charged a very reasonable price. I would certainly recommend them and use them again"
+   },
+   {
+    "name": "Tommy B.",
+    "stars": 5,
+    "text": "Very professional and personable from the first phone call. Hadn\u2019t called the company in two years and Ms Corey (sp?) made it seem like yesterday we last talked."
+   }
+  ],
+  "email": null,
+  "email_source": "not found (directories show phone/address only; allamericanhvacmd@gmail.com belongs to a different Urbana/Frederick company)",
+  "email_confidence": "n/a",
+  "site_status": "broken: aahvacservices.com redirects to a hosting 'account suspended' page",
+  "listed_website": "http://aahvacservices.com/",
+  "reason": "but the website on your Google listing has been suspended",
+  "project": "storefront-all-american-hvac-sovereign-service",
+  "score": 210
+ },
+ {
+  "title": "Affordable HVAC Services, LLC",
+  "placeId": "ChIJHQOe0g7sUiQR6zzY3RCBB34",
+  "categoryName": "HVAC contractor",
+  "totalScore": 4.9,
+  "reviewsCount": 39,
+  "phone": "(301) 706-2486",
+  "phoneUnformatted": "+13017062486",
+  "address": null,
+  "city": null,
+  "state": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=Affordable%20HVAC%20Services%2C%20LLC&query_place_id=ChIJHQOe0g7sUiQR6zzY3RCBB34",
+  "openingHours": [],
+  "bucket": "HVAC",
+  "stateAbbr": null,
+  "reviews": [
+   {
+    "name": "Charissa Z.",
+    "stars": 5,
+    "text": "Very happy with timely service. Andrew quickly identified our problems and was able to resolve them. He explained everything and was thorough. Would recommend him to anyone looking for experienced, affordable service."
+   },
+   {
+    "name": "Greg N.",
+    "stars": 5,
+    "text": "Highly recommend Affordable HVAC. Andrew was able to service same day and got the job done. Super honest and excellent service. Couldn\u2019t have been a nicer guy. Thank you!"
+   },
+   {
+    "name": "N C.",
+    "stars": 5,
+    "text": "Affordable HVAC specifically Andrew provides amazing customer service. Andrew is very friendly and extremely knowledgeable. He was able to work with my schedule and answerall my questions. This is the second year he has serviced my unit and I highly recommend his services."
+   },
+   {
+    "name": "Nicholas N.",
+    "stars": 5,
+    "text": "Extremely professional and thorough company. I have utilized Andrew (owner of Affordable HVAC) for many years at multiple residences, and recommended him to several friends and associates. He does not disappoint."
+   }
+  ],
+  "email": null,
+  "email_source": "not found (Nextdoor business page and directories show phone only)",
+  "email_confidence": "n/a",
+  "site_status": "none (no website on Google listing)",
+  "listed_website": "",
+  "reason": "but I couldn't find a website for you",
+  "project": "storefront-affordable-hvac-services",
+  "score": 191.1
+ },
+ {
+  "title": "C&A plumbing",
+  "placeId": "ChIJo_aVUHrdt4kRExjpaEEqMrc",
+  "categoryName": "Plumber",
+  "totalScore": 4.8,
+  "reviewsCount": 27,
+  "phone": "(667) 320-2119",
+  "phoneUnformatted": "+16673202119",
+  "address": "9065 Thamesmeade Rd, Laurel, MD 20723",
+  "city": "Laurel",
+  "state": "Maryland",
+  "url": "https://www.google.com/maps/search/?api=1&query=C%26A%20plumbing&query_place_id=ChIJo_aVUHrdt4kRExjpaEEqMrc",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   },
+   {
+    "day": "Thursday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   },
+   {
+    "day": "Friday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   },
+   {
+    "day": "Saturday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   },
+   {
+    "day": "Sunday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   }
+  ],
+  "bucket": "Plumbing",
+  "stateAbbr": "MD",
+  "reviews": [
+   {
+    "name": "Will M.",
+    "stars": 5,
+    "text": "C&A we\u2019re as professional and thorough as they come! I have been having so many problems with my water heater lately. They came out and fixed it without any problems and it has been working great ever since! If you need a plumber they are definitely the ones to talk to. 10/10"
+   },
+   {
+    "name": "Ariana S.",
+    "stars": 5,
+    "text": "I will call C&A plumbing for all my maintenance and plumbing needs. He is knowledgeable, responded quickly, punctual and overall provides great quality service."
+   },
+   {
+    "name": "Jason Z.",
+    "stars": 5,
+    "text": "Carlos was amazing! His prices were beyond competitive! The water heater products he used were top of the line. He was quick to acquire to water heater products and to schedule a time to come out to my house to install. He was on time and worked quickly and efficiently to do the installation."
+   },
+   {
+    "name": "Maria C.",
+    "stars": 5,
+    "text": "Very happy with the booster pump installed , very good quality of craftsmanship and affordable. Thanks"
+   }
+  ],
+  "email": null,
+  "email_source": "not found (rejected candaplumbing18@gmail.com: belongs to an unrelated C and A Plumbing in Smiths Grove, KY)",
+  "email_confidence": "n/a",
+  "site_status": "none (no website on Google listing)",
+  "listed_website": "",
+  "reason": "but I couldn't find a website for you",
+  "project": "storefront-ca-plumbing",
+  "score": 129.6
+ },
+ {
+  "title": "Siwel Plumbing Heating & AC Service",
+  "placeId": "ChIJndTbL8y-t4kRa10P2jDKkhk",
+  "categoryName": "Plumber",
+  "totalScore": 5,
+  "reviewsCount": 25,
+  "phone": "(301) 568-1900",
+  "phoneUnformatted": "+13015681900",
+  "address": "5363 Sheriff Rd, Capitol Heights, MD 20743",
+  "city": "Capitol Heights",
+  "state": "Maryland",
+  "url": "https://www.google.com/maps/search/?api=1&query=Siwel%20Plumbing%20Heating%20%26%20AC%20Service&query_place_id=ChIJndTbL8y-t4kRa10P2jDKkhk",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Thursday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Friday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Saturday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Sunday",
+    "hours": "Open 24 hours"
+   }
+  ],
+  "bucket": "Plumbing",
+  "stateAbbr": "MD",
+  "reviews": [
+   {
+    "name": "Markus H.",
+    "stars": 5,
+    "text": "Charles came out on a Saturday to develop our kitchen sink - went above and beyond; installed cleanout, checked that everything was working fine. Incredibly friendly, careful, professional. Best service possible."
+   },
+   {
+    "name": "Brian B.",
+    "stars": 5,
+    "text": "Charles at Siwel was responsive, quick, and helpful. He did more than expected and was able to take care of the work I needed done long before a number of other HVAC companies could come take a look at the job."
+   },
+   {
+    "name": "John D.",
+    "stars": 5,
+    "text": "Siwel Plumbing is the best. The tech Charles came out at 3:00 AM. He explained everything to me so I could understand the problem. He talked to me like a professional should. I will recommend Siwel to everyone!!! 100% Satisfaction Gaurenteed!!"
+   },
+   {
+    "name": "Reggie B.",
+    "stars": 5,
+    "text": "Mr Charles came out and did excellent job. We called an within 45 minutes he was at the house and fix our emergency quick and fast. Love talking to him l. Super knowledgeable and will definitely be using his services for some other projects we need done"
+   }
+  ],
+  "email": null,
+  "email_source": "not found (BBB hides email; info@siwelinc.com belongs to a different Siwel company)",
+  "email_confidence": "n/a",
+  "site_status": "broken: siwelplumbinginc.com has an invalid TLS certificate and returns HTTP 500",
+  "listed_website": "https://siwelplumbinginc.com/",
+  "reason": "but the website on your Google listing isn't loading",
+  "project": "storefront-siwel-plumbing-heating-ac-service",
+  "score": 125
+ }
+]

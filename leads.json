@@ -1,0 +1,855 @@
+[
+ {
+  "title": "Rios HVAC Services, LLC",
+  "placeId": "ChIJl-JM4AfHt4kRPzrD1ekjcBw",
+  "categoryName": "HVAC contractor",
+  "totalScore": 5,
+  "reviewsCount": 142,
+  "phone": "(202) 257-7658",
+  "phoneUnformatted": "+12022577658",
+  "address": "Buchanan St, Mt Rainier, MD 20712",
+  "city": "Mt Rainier",
+  "state": "Maryland",
+  "website": "https://facebook.com/HVACRIOSLLC/",
+  "url": "https://www.google.com/maps/search/?api=1&query=Rios%20HVAC%20Services%2C%20LLC.&query_place_id=ChIJl-JM4AfHt4kRPzrD1ekjcBw",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   },
+   {
+    "day": "Thursday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   },
+   {
+    "day": "Friday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   },
+   {
+    "day": "Saturday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   },
+   {
+    "day": "Sunday",
+    "hours": "7\u202fAM to 5\u202fPM"
+   }
+  ],
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=Rios%20HVAC%20Services%2C%20LLC.&query_place_id=ChIJl-JM4AfHt4kRPzrD1ekjcBw",
+  "bucket": "HVAC",
+  "stateAbbr": "MD",
+  "reviews": [
+   {
+    "name": "Gianina F.",
+    "stars": 5,
+    "text": "Rios is the best! Very prompt with reasonable prices compared to the other companies I was looking at. My AC was making a very loud noise and it turned out that my air filter got pulled into the system. Quick fix for them."
+   },
+   {
+    "name": "Tammy W.",
+    "stars": 5,
+    "text": "The only company we have used for years!! Fast and reliable, always on time and respond very quickly even on the weekends! They go out of their way to service our problematic HVAC which is very hard to get to in our unfinished attic. A++ highly recommended"
+   },
+   {
+    "name": "Dianne B.",
+    "stars": 5,
+    "text": "Rios HVAC was excellent. They explained the service that was being provided. I would highly recommend this company to anyone needing air conditioner and/or heating services. I will continue to use their services in the future."
+   },
+   {
+    "name": "Ewing M.",
+    "stars": 5,
+    "text": "The best service we could have asked for. Juan was at our house within a couple of hours of me reaching out."
+   }
+  ],
+  "site_status": "broken: listing links to Facebook page only",
+  "email": null,
+  "listed_website": "https://facebook.com/HVACRIOSLLC/",
+  "score": 75.22,
+  "project": "storefront-rios-hvac-services"
+ },
+ {
+  "title": "Affordable Plumbing & Gas LLC",
+  "placeId": "ChIJ6_SJFk-zt4kRiwHiP-r9xP4",
+  "categoryName": "Plumber",
+  "totalScore": 4.9,
+  "reviewsCount": 135,
+  "phone": "(703) 839-3910",
+  "phoneUnformatted": "+17038393910",
+  "address": "3804 Wilson Blvd #1030, Arlington, VA 22203",
+  "city": "Arlington",
+  "state": "Virginia",
+  "url": "https://www.google.com/maps/search/?api=1&query=Affordable%20Plumbing%20%26%20Gas%20LLC&query_place_id=ChIJ6_SJFk-zt4kRiwHiP-r9xP4",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "8\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "8\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "8\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Thursday",
+    "hours": "8\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Friday",
+    "hours": "8\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Saturday",
+    "hours": "Closed"
+   },
+   {
+    "day": "Sunday",
+    "hours": "Closed"
+   }
+  ],
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=Affordable%20Plumbing%20%26%20Gas%20LLC&query_place_id=ChIJ6_SJFk-zt4kRiwHiP-r9xP4",
+  "bucket": "Plumbing",
+  "stateAbbr": "VA",
+  "reviews": [
+   {
+    "name": "Nelson M.",
+    "stars": 5,
+    "text": "I highly recommend Brian Sanchez from Affordable Plumbing & Gas. Brian has repaired several toilets as well as my kitchen faucet and every time he has provided excellent service."
+   },
+   {
+    "name": "Phil A.",
+    "stars": 5,
+    "text": "Brian and his associate did a great job. They were on time, answered all of my questions prior to and during the install, and were extremely proficient and knowledgeable installing my 75 gallon gas hot water heater. They used a superior brand of water heater."
+   },
+   {
+    "name": "Mary-Anne L.",
+    "stars": 5,
+    "text": "Exceptional service! Brian Sanchez and the team at Affordable Plumbing & Gas LLC were absolutely fantastic. They were honest, responsive, professional, and made what could have been a stressful plumbing issue completely painless."
+   },
+   {
+    "name": "John M.",
+    "stars": 5,
+    "text": "I had a great experience with Affordable Plumbing and Gas LLC. When my water heater broke and caused water damage in the basement, they responded quickly and replaced the water heater."
+   }
+  ],
+  "site_status": "none (no website on Google listing)",
+  "email": null,
+  "listed_website": null,
+  "score": 74.04,
+  "project": "storefront-affordable-plumbing-gas"
+ },
+ {
+  "title": "New Sunrise Roofing Inc",
+  "placeId": "ChIJYzNv8nRTtokR9qHG-X6ivCc",
+  "categoryName": "Roofing contractor",
+  "totalScore": 5,
+  "reviewsCount": 67,
+  "phone": "(703) 495-8877",
+  "phoneUnformatted": "+17034958877",
+  "address": "6801 Backlick Rd Ste C, Springfield, VA 22150",
+  "city": "Springfield",
+  "state": "Virginia",
+  "url": "https://www.google.com/maps/search/?api=1&query=New%20Sunrise%20Roofing%20Inc&query_place_id=ChIJYzNv8nRTtokR9qHG-X6ivCc",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "9\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "9\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "9\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Thursday",
+    "hours": "9\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Friday",
+    "hours": "9\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Saturday",
+    "hours": "9\u202fAM to 5\u202fPM"
+   },
+   {
+    "day": "Sunday",
+    "hours": "Closed"
+   }
+  ],
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=New%20Sunrise%20Roofing%20Inc&query_place_id=ChIJYzNv8nRTtokR9qHG-X6ivCc",
+  "bucket": "Roofing",
+  "stateAbbr": "VA",
+  "reviews": [
+   {
+    "name": "Scott D.",
+    "stars": 5,
+    "text": "New Surnrise Roofing did a great job installing new gutter guards on our property. They gave us a timely estimate that was exceptionally fair and reasonable compared to other companies and they used high quality gutter guards by gutter glove."
+   },
+   {
+    "name": "Owen P.",
+    "stars": 5,
+    "text": "I used New Sunrise Roofing on a couple projects this month. They installed a new roof, repaired damaged siding and gutters as well as fixed bathroom ventilation fans, and attic fans. New Sunrise Roofing provided me with the best quotes and service!"
+   },
+   {
+    "name": "Iris B.",
+    "stars": 5,
+    "text": "We experienced a hail storm in May 2016 that damaged the siding and roofing on our townhouse, we are also an end unit so the damage on the siding was pretty noticeable. So my online research began and I discovered New Sunrise Roofing."
+   },
+   {
+    "name": "Joseph M.",
+    "stars": 5,
+    "text": "I called Juan several years ago for an estimate to have shingles put on our roof, a skylight, new gutters, gutter covers and down spouts. He was extremely professional and his price was very reasonable."
+   }
+  ],
+  "site_status": "none (no website on Google listing)",
+  "email": null,
+  "listed_website": null,
+  "score": 72.61,
+  "project": "storefront-new-sunrise-roofing"
+ },
+ {
+  "title": "Cycle Heating and Cooling, LLC",
+  "placeId": "ChIJE28ZObvHt4kR5L1HahFDIw4",
+  "categoryName": "HVAC contractor",
+  "totalScore": 4.9,
+  "reviewsCount": 79,
+  "phone": "(240) 510-4720",
+  "phoneUnformatted": "+12405104720",
+  "address": "8304 Garland Ave, Silver Spring, MD 20912",
+  "city": "Silver Spring",
+  "state": "Maryland",
+  "url": "https://www.google.com/maps/search/?api=1&query=Cycle%20Heating%20and%20Cooling%2C%20LLC&query_place_id=ChIJE28ZObvHt4kR5L1HahFDIw4",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Thursday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Friday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Saturday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Sunday",
+    "hours": "Open 24 hours"
+   }
+  ],
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=Cycle%20Heating%20and%20Cooling%2C%20LLC&query_place_id=ChIJE28ZObvHt4kR5L1HahFDIw4",
+  "bucket": "HVAC",
+  "stateAbbr": "MD",
+  "reviews": [
+   {
+    "name": "Maddy G.",
+    "stars": 5,
+    "text": "Rudis and his team are the best! Our HVAC was broken, and he worked hard to fix it. He didn't try to upsell me or make me fix things that weren't broken."
+   },
+   {
+    "name": "Maria C.",
+    "stars": 5,
+    "text": "During this heatwave, our AC stopped working and we were sweltering. Rudi made time to come to our house ASAP, give an estimate of work needed, and stayed in contact with me regularly while I tried to figure out the next steps (with his help!)."
+   },
+   {
+    "name": "Charles L.",
+    "stars": 5,
+    "text": "We\u2019re so glad we chose Cycle! Rudi and his team were fantastic. Our 13-year-old system needed to be replaced - right in the middle of a brutal heat wave. I reached out to four companies, carefully comparing reviews and years of experience."
+   },
+   {
+    "name": "Mollie D.",
+    "stars": 5,
+    "text": "Rudis and his team were wonderful to work with! They quickly diagnosed our HVAC issues and gave us clear choices to fix and zero pressure to do anything more than was necessary. Highly recommend."
+   }
+  ],
+  "site_status": "none on listing; old domain cycleheatingandcooling.com now a third-party HVAC call page ((877) number, not theirs)",
+  "email": null,
+  "listed_website": null,
+  "score": 72.18,
+  "project": "storefront-cycle-heating-and-cooling"
+ },
+ {
+  "title": "PGS Plumbing Solutions LLC",
+  "placeId": "ChIJ2Y1kkKDBt4kRfS0mqADdSwY",
+  "categoryName": "Plumber",
+  "totalScore": 4.9,
+  "reviewsCount": 44,
+  "phone": "(202) 492-6806",
+  "phoneUnformatted": "+12024926806",
+  "address": "7201 E Forest Rd, Hyattsville, MD 20785",
+  "city": "Hyattsville",
+  "state": "Maryland",
+  "website": "https://youtube.com/@pgsplumbing-u8l?si=LCm6bH2W95mpa2W1",
+  "url": "https://www.google.com/maps/search/?api=1&query=PGS%20Plumbing%20Solutions%20LLC&query_place_id=ChIJ2Y1kkKDBt4kRfS0mqADdSwY",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "5\u202fAM to 11\u202fPM"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "5\u202fAM to 11\u202fPM"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "5\u202fAM to 11\u202fPM"
+   },
+   {
+    "day": "Thursday",
+    "hours": "5\u202fAM to 11\u202fPM"
+   },
+   {
+    "day": "Friday",
+    "hours": "5\u202fAM to 11\u202fPM"
+   },
+   {
+    "day": "Saturday",
+    "hours": "5\u202fAM to 11\u202fPM"
+   },
+   {
+    "day": "Sunday",
+    "hours": "5\u202fAM to 11\u202fPM"
+   }
+  ],
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=PGS%20Plumbing%20Solutions%20LLC&query_place_id=ChIJ2Y1kkKDBt4kRfS0mqADdSwY",
+  "bucket": "Plumbing",
+  "stateAbbr": "MD",
+  "reviews": [
+   {
+    "name": "Victoria B.",
+    "stars": 5,
+    "text": "I contacted Erick after being referred by a friend regarding an issue with my water in my tub. He was able to schedule me in the same day! Eric was polite, courteous, and explained thoroughly the process of the repair."
+   },
+   {
+    "name": "Amir R.",
+    "stars": 5,
+    "text": "I\u2019m a returning customer to PGS Plumbing Solutions. Because Erick is a great person to work with. He is fair, professional, and gets the job done, thoroughly and with high quality. We had him renew our bathroom and water heater 3 years ago."
+   },
+   {
+    "name": "Ingrid F.",
+    "stars": 5,
+    "text": "Returning customer. Eric is a great communicator, very responsive, does high quality work, and I plan to continue using pgs plumbing solutions in the future."
+   },
+   {
+    "name": "Sheila W.",
+    "stars": 5,
+    "text": "I have Eric to do some plumbing work for me and he and his team did an extremely fantastic job. They were highly professional team and very efficient. During the process he discovered other problems which he did not hesitate to fixed."
+   }
+  ],
+  "site_status": "broken: listing links to a YouTube channel only",
+  "email": null,
+  "listed_website": "https://youtube.com/@pgsplumbing-u8l?si=LCm6bH2W95mpa2W1",
+  "score": 70.15,
+  "project": "storefront-pgs-plumbing-solutions"
+ },
+ {
+  "title": "Benny's Exterior LLC",
+  "placeId": "ChIJZVk6v-vEt4kREWwjpuXa4ss",
+  "categoryName": "Roofing contractor",
+  "totalScore": 4.8,
+  "reviewsCount": 44,
+  "phone": "(240) 354-9872",
+  "phoneUnformatted": "+12403549872",
+  "address": "12301 Palermo Dr, Silver Spring, MD 20904",
+  "city": "Silver Spring",
+  "state": "Maryland",
+  "website": "http://bennyexteriorllc.com/",
+  "url": "https://www.google.com/maps/search/?api=1&query=Benny's%20Exterior%20LLC&query_place_id=ChIJZVk6v-vEt4kREWwjpuXa4ss",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Thursday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Friday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Saturday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Sunday",
+    "hours": "9\u202fAM to 12\u202fAM"
+   }
+  ],
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=Benny's%20Exterior%20LLC&query_place_id=ChIJZVk6v-vEt4kREWwjpuXa4ss",
+  "bucket": "Roofing",
+  "stateAbbr": "MD",
+  "reviews": [
+   {
+    "name": "Rob C.",
+    "stars": 5,
+    "text": "Benny does amazing work. His attention to detail and customer service are truly outstanding. Highly recommended for home exterior work \u2026 roofing, gutters, siding, etc. Benny is very knowledgeable and friendly."
+   },
+   {
+    "name": "Luis E.",
+    "stars": 5,
+    "text": "Benny is amazing. I called him on a Saturday when the roof of my DC house collapsed from heavy spring rains and he was out that afternoon to see what the damage was, what could be done immediately to prevent further damage, and to provide a quote."
+   },
+   {
+    "name": "Geoff B.",
+    "stars": 5,
+    "text": "My neighbor had Benny replace his roof and he and his crew did an amazing job so I hired him to do a repair on my roof."
+   },
+   {
+    "name": "Robert P.",
+    "stars": 5,
+    "text": "Benny\u2019s work was excellent on several jobs including roof installation, gutter cleaning, sunscreen repair, and deck power washing and painting. He is very responsive, explains everything, provides options, and offers a reasonable price for services."
+   }
+  ],
+  "site_status": "broken: bennyexteriorllc.com expired (redirects to Wix 'reconnect your domain')",
+  "email": null,
+  "listed_website": "http://bennyexteriorllc.com/",
+  "score": 69.15,
+  "project": "storefront-bennys-exterior"
+ },
+ {
+  "title": "DJ's Plumbing and Electrical Services",
+  "placeId": "ChIJUZ7nVmnmxqsRPLk_38cYk4Y",
+  "categoryName": "Plumber",
+  "totalScore": 4.8,
+  "reviewsCount": 126,
+  "phone": "(202) 505-4675",
+  "phoneUnformatted": "+12025054675",
+  "address": null,
+  "city": null,
+  "state": null,
+  "website": "https://djsplumbingandelectrical.com/",
+  "url": "https://www.google.com/maps/search/?api=1&query=DJ's%20Plumbing%20and%20Electrical%20Services&query_place_id=ChIJUZ7nVmnmxqsRPLk_38cYk4Y",
+  "openingHours": [],
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=DJ's%20Plumbing%20and%20Electrical%20Services&query_place_id=ChIJUZ7nVmnmxqsRPLk_38cYk4Y",
+  "bucket": "Plumbing",
+  "stateAbbr": null,
+  "reviews": [
+   {
+    "name": "Mordi O.",
+    "stars": 5,
+    "text": "Absolutely amazing service! They fixed our toilet quickly and professionally, even making time during the holidays. Super flexible with scheduling and really came through when we needed it most. Highly recommended! You see what it was before and after"
+   },
+   {
+    "name": "Lyndsey P.",
+    "stars": 5,
+    "text": "DJ and Len are an incredible team. I had two different complex issues with my toilets and they fixed both in less than an hour. They are highly communicative, incredibly clean, and easy to work with. HIGHLY recommend!"
+   },
+   {
+    "name": "Janine C.",
+    "stars": 5,
+    "text": "I called at 9:30 p.m., and DJ showed up immediately to stop an emergency flood at my dad's house. He was able to stop the high-pressure flood quickly."
+   },
+   {
+    "name": "John S.",
+    "stars": 5,
+    "text": "Absolutely phenomenal! Responsive, superior plumbing knowledge, great sense of humor, quick and easy on the pocket. I don\u2019t normally write reviews, but DJ\u2019s deserves to be lauded. Used them before and will continue."
+   }
+  ],
+  "site_status": "broken: djsplumbingandelectrical.com TLS error from box + 120s timeout via Apify fetch",
+  "email": null,
+  "listed_website": "https://djsplumbingandelectrical.com/",
+  "score": 68.8,
+  "project": "storefront-djs-plumbing-and-electrical-services"
+ },
+ {
+  "title": "AG Heating Cooling Duct Cleaning",
+  "placeId": "ChIJvZtTHWrPt4kRdr6H_3WuEDs",
+  "categoryName": "HVAC contractor",
+  "totalScore": 4.9,
+  "reviewsCount": 27,
+  "phone": "(240) 334-8613",
+  "phoneUnformatted": "+12403348613",
+  "address": "1600 University Blvd W, Silver Spring, MD 20902",
+  "city": "Silver Spring",
+  "state": "Maryland",
+  "url": "https://www.google.com/maps/search/?api=1&query=AG%20Heating%20Cooling%20Duct%20Cleaning&query_place_id=ChIJvZtTHWrPt4kRdr6H_3WuEDs",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   },
+   {
+    "day": "Thursday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   },
+   {
+    "day": "Friday",
+    "hours": "7\u202fAM to 7\u202fPM"
+   },
+   {
+    "day": "Saturday",
+    "hours": "9\u202fAM to 4\u202fPM"
+   },
+   {
+    "day": "Sunday",
+    "hours": "Closed"
+   }
+  ],
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=AG%20Heating%20Cooling%20Duct%20Cleaning&query_place_id=ChIJvZtTHWrPt4kRdr6H_3WuEDs",
+  "bucket": "HVAC",
+  "stateAbbr": "MD",
+  "reviews": [
+   {
+    "name": "Gino D.",
+    "stars": 5,
+    "text": "This past ice storm killed my Trane HVAC system. The system was old and not maintained very well; regardless, the situation was an emergency and AG Heating Cooling Duct Cleaning was the only business in the Alexandria area that responded immediately."
+   },
+   {
+    "name": "Rodrigo R.",
+    "stars": 5,
+    "text": "Incredible service from start to finish. I contacted them on a Friday after my old HVAC compressor failed, and by Sunday, I had a brand new system installed. Quick availability, fair pricing, and super responsive communication throughout."
+   }
+  ],
+  "site_status": "none (no website on Google listing)",
+  "email": null,
+  "listed_website": null,
+  "score": 68.45,
+  "project": "storefront-ag-heating-cooling-duct-cleaning"
+ },
+ {
+  "title": "1 DAY CONTRACTORS LLC",
+  "placeId": "ChIJd_8rcyTBt4kRpXPsNnlS4uk",
+  "categoryName": "Roofing contractor",
+  "totalScore": 4.7,
+  "reviewsCount": 31,
+  "phone": "(240) 930-9173",
+  "phoneUnformatted": "+12409309173",
+  "address": "6417 Adelphi Rd, University Park, MD 20782",
+  "city": "University Park",
+  "state": "Maryland",
+  "url": "https://www.google.com/maps/search/?api=1&query=1%20DAY%20CONTRACTORS%20LLC&query_place_id=ChIJd_8rcyTBt4kRpXPsNnlS4uk",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Thursday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Friday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Saturday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Sunday",
+    "hours": "Open 24 hours"
+   }
+  ],
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=1%20DAY%20CONTRACTORS%20LLC&query_place_id=ChIJd_8rcyTBt4kRpXPsNnlS4uk",
+  "bucket": "Roofing",
+  "stateAbbr": "MD",
+  "reviews": [
+   {
+    "name": "Danielle G.",
+    "stars": 5,
+    "text": "Erick and his team did an amazing job on my new roof, and I could not be more pleased with the entire experience. From our initial meeting, Erick took the time to explain exactly what needed to be done and why."
+   },
+   {
+    "name": "Michelle H.",
+    "stars": 5,
+    "text": "Erick and the team from One Day Contractors did a phenomenal job replacing my roof. From the initial consultation through job completion, Erick was attentive and responsive."
+   },
+   {
+    "name": "Randy A.",
+    "stars": 5,
+    "text": "Guys, I really recommend them!! This is my second time I hire them and leave me amazed! To give some context, during the weekend my wife noticed that there was a water spot on my ceiling, and I panicked because I didn\u2019t know where it was coming from so I\u2026"
+   },
+   {
+    "name": "Tesso T.",
+    "stars": 5,
+    "text": "I had an excellent experience with 1 Day Contractors LLC! Eric and his team replaced my entire roof in just one day, and the quality of the work was outstanding from start to finish. The price was reasonable and the whole process was smooth and stress-free."
+   }
+  ],
+  "site_status": "none (no website on Google listing; only Thumbtack/Nextdoor profiles)",
+  "email": null,
+  "listed_website": null,
+  "score": 66.93,
+  "project": "storefront-1-day-contractors"
+ },
+ {
+  "title": "Ace Roofing Corporation",
+  "placeId": "ChIJA7dVTiLMt4kRrIhbgHESwy8",
+  "categoryName": "Roofing contractor",
+  "totalScore": 4.7,
+  "reviewsCount": 31,
+  "phone": "(301) 637-3139",
+  "phoneUnformatted": "+13016373139",
+  "address": "11140 Rockville Pike #400, Rockville, MD 20852",
+  "city": "Rockville",
+  "state": "Maryland",
+  "url": "https://www.google.com/maps/search/?api=1&query=Ace%20Roofing%20Corporation&query_place_id=ChIJA7dVTiLMt4kRrIhbgHESwy8",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Thursday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Friday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Saturday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Sunday",
+    "hours": "Open 24 hours"
+   }
+  ],
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=Ace%20Roofing%20Corporation&query_place_id=ChIJA7dVTiLMt4kRrIhbgHESwy8",
+  "bucket": "Roofing",
+  "stateAbbr": "MD",
+  "reviews": [
+   {
+    "name": "Katrina E.",
+    "stars": 5,
+    "text": "Jason and his crew from ACE Roofing did an excellent job. The price was very comparable to other roofing companies. Jason was very accommodating to my schedule to meet for appointments."
+   },
+   {
+    "name": "Pat W.",
+    "stars": 5,
+    "text": "Jason did a wonderful job presenting the roofing information and how the work would proceed. They arrived as scheduled and it was easy to communicate any concerns with the roofing crew and they did an excellent job with the removal, installation and clean-up."
+   },
+   {
+    "name": "Robert A.",
+    "stars": 5,
+    "text": "Jason at Ace Roofing was awesome. Our roof started leaking and we got several estimates for a new roof. Not only was Ace the best estimate but their work was top notch. Jason took time to explain what was needed."
+   },
+   {
+    "name": "G.H. D.",
+    "stars": 5,
+    "text": "Ace Roofing provided excellent service of my cedar shake roof replacement. The pricing was competitive with other companies, however the customer service was exceptional. Jason was very informed, professional and efficient."
+   }
+  ],
+  "site_status": "none (no website on Google listing)",
+  "email": null,
+  "listed_website": null,
+  "score": 66.93,
+  "project": "storefront-ace-roofing-corporation"
+ },
+ {
+  "title": "MRM Services llc",
+  "placeId": "ChIJ7fTcBnC_t4kRcEwHXpprfMA",
+  "categoryName": "HVAC contractor",
+  "totalScore": 5,
+  "reviewsCount": 28,
+  "phone": "(202) 600-8391",
+  "phoneUnformatted": "+12026008391",
+  "address": null,
+  "city": null,
+  "state": null,
+  "website": "http://thumbtack.com/",
+  "url": "https://www.google.com/maps/search/?api=1&query=MRM%20Services%20llc.&query_place_id=ChIJ7fTcBnC_t4kRcEwHXpprfMA",
+  "openingHours": [],
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=MRM%20Services%20llc.&query_place_id=ChIJ7fTcBnC_t4kRcEwHXpprfMA",
+  "bucket": "HVAC",
+  "stateAbbr": null,
+  "reviews": [
+   {
+    "name": "Brian B.",
+    "stars": 5,
+    "text": "This is the second time I used Mike and his team for my HVAC problems and each time, Mike got us up and running in no time! Our A/C unit completely died during the first heat wave this summer, where temperatures got well over 100F for a couple days in a row."
+   },
+   {
+    "name": "Jermaine B.",
+    "stars": 5,
+    "text": "I couldn\u2019t be more impressed with the service I received from MRM Services. Mike and Ali were absolute professionals from start to finish."
+   },
+   {
+    "name": "Brandy K.",
+    "stars": 5,
+    "text": "I had an excellent experience with Mike from MRM services. From start to finish, he was professional and knowledgeable. He took the time to explain my options in layman terms, and made sure I understood everything before proceeding."
+   },
+   {
+    "name": "N.S. M.",
+    "stars": 5,
+    "text": "MRM Services provided outstanding support and assistance with my ventilation issue. Mike knowledge has saved time and money, which is always a big factor when hiring someone for home repairs."
+   }
+  ],
+  "site_status": "broken: listing links to thumbtack.com (directory, not their site)",
+  "email": null,
+  "listed_website": "http://thumbtack.com/",
+  "score": 65.58,
+  "project": "storefront-mrm-services"
+ },
+ {
+  "title": "Matrix General Contractors LLC",
+  "placeId": "ChIJNazUeITPt4kReRFbR-W2uqY",
+  "categoryName": "Roofing contractor",
+  "totalScore": 4.7,
+  "reviewsCount": 39,
+  "phone": "",
+  "phoneUnformatted": "",
+  "address": "3002 Kingswell Dr, Silver Spring, MD 20902",
+  "city": "Silver Spring",
+  "state": "Maryland",
+  "website": "https://matrixgeneral.com/",
+  "url": "https://www.google.com/maps/search/?api=1&query=Matrix%20General%20Contractors%20LLC&query_place_id=ChIJNazUeITPt4kReRFbR-W2uqY",
+  "openingHours": [
+   {
+    "day": "Monday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Tuesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Wednesday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Thursday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Friday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Saturday",
+    "hours": "Open 24 hours"
+   },
+   {
+    "day": "Sunday",
+    "hours": "Closed"
+   }
+  ],
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=Matrix%20General%20Contractors%20LLC&query_place_id=ChIJNazUeITPt4kReRFbR-W2uqY",
+  "bucket": "Roofing",
+  "stateAbbr": "MD",
+  "reviews": [
+   {
+    "name": "Maria W.",
+    "stars": 5,
+    "text": "Matrix General Contractors, LLC and Andrey, owner were a pleasure to work with. Andrey is very pleasant, professional, honest and he handled all of the insurance claim work and never gave up and fought for what was right in favor of me."
+   },
+   {
+    "name": "Maya G.",
+    "stars": 5,
+    "text": "Andrey and his team did an amazing job on my roof replacement, gutters and chimney repair. The contractors/workmanship were very professional and thorough. And the best materials were used for the best cost. 10/10 overall experience!"
+   },
+   {
+    "name": "Matthias W.",
+    "stars": 5,
+    "text": "Hired Andre to install recessed lights in my kitchen and family room. He was professional and took his time. I recommend him to anyone. I\u2019m having them come back to do more work in my house."
+   }
+  ],
+  "site_status": "broken: matrixgeneral.com TLS error from box + 120s timeout via Apify fetch",
+  "email": null,
+  "listed_website": "https://matrixgeneral.com/",
+  "score": 63.73,
+  "project": "storefront-matrix-general-contractors"
+ },
+ {
+  "title": "B.DANIEL'S",
+  "placeId": "ChIJJVYOwC0Wq4cReu7EuKb4cdY",
+  "categoryName": "Plumber",
+  "totalScore": 4.8,
+  "reviewsCount": 25,
+  "phone": "(202) 246-8003",
+  "phoneUnformatted": "+12022468003",
+  "address": null,
+  "city": null,
+  "state": null,
+  "url": "https://www.google.com/maps/search/?api=1&query=B.DANIEL'S&query_place_id=ChIJJVYOwC0Wq4cReu7EuKb4cdY",
+  "openingHours": [],
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=B.DANIEL'S&query_place_id=ChIJJVYOwC0Wq4cReu7EuKb4cdY",
+  "bucket": "Plumbing",
+  "stateAbbr": null,
+  "reviews": [
+   {
+    "name": "Patricia J.",
+    "stars": 5,
+    "text": "I had an excellent experience with B. Daniels. I had a kitchen faucet installed and the garbage disposal reset. Michael was professional and friendly. The communication was good and the pricing was reasonable. I will use B.Daniels again."
+   },
+   {
+    "name": "D. M.",
+    "stars": 5,
+    "text": "Received service an hour of initial call. Very professional & polite. Explained all remedies, easily understood. Will definitely use this plumbing service again & will tell friends/family. Really awesome service."
+   },
+   {
+    "name": "Anthony A.",
+    "stars": 5,
+    "text": "This was A1 service. Ricky came out for my job immediately and was very professional and got the job done in a timely manner. Would definitely recommend for any plumbing jobs."
+   },
+   {
+    "name": "Shelby S.",
+    "stars": 5,
+    "text": "I had plumbing work done at my home today and was very impressed with the service..The plumber was courteous; quick to spot the problem and get it fixed. I\u2019m so relieved to have my garbage disposal working again."
+   }
+  ],
+  "site_status": "none (no website on Google listing)",
+  "email": null,
+  "listed_website": null,
+  "score": 63.18,
+  "project": "storefront-bdaniels"
+ }
+]
